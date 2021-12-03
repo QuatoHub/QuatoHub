@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyeonjun%20Moon&fontSize=70)
+
+<div align=center>
+
 <p>
   <a href="https://quatohub.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:hyeonjun5256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeonjun5256@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -10,7 +14,7 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
-### 💪 Skills
+### 🌈 Skills
 
 Techs that I've used at least once
 
@@ -32,7 +36,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json web tokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
