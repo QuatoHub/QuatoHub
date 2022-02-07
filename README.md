@@ -36,8 +36,8 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json web tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
