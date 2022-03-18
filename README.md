@@ -2,11 +2,11 @@
 
 <div align=center>
 
-<p>
+<!-- <p>
   <a href="https://quatohub.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:hyeonjun5256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeonjun5256@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hyeonjun-moon-19777b218/" target="_blank"><img src="https://img.shields.io/badge/HyeonjunMoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
+</p> -->
 
 <p>
   👋&nbsp; Hi there! I'm <b>Back-end Engineer</b> using Javascript. 🚀<br/>
