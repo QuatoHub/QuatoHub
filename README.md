@@ -2,6 +2,7 @@
 
 <div align=center>
 
+  
 <p>
   <a href="https://quatohub.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:hyeonjun5256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeonjun5256@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -48,3 +49,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
+  
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=QuatoHub)
+<!-- ![github-stats](https://github-readme-stats.vercel.app/api?username=QuatoHub&show_icons=true&count_private=true) -->
