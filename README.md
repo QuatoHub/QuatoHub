@@ -15,11 +15,9 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
-### 🌈 Skills
+## 💪 Skills
 
-Techs that I've used at least once
-
-#### Front-end
+### Flatform & Languagues
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -30,8 +28,6 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 </p>
 
-#### Back-end
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -41,9 +37,7 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-
-  
-#### Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
