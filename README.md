@@ -12,7 +12,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>Back-end Engineer</b> using Javascript. 🚀<br/>
   🌱 I’m currently learning how to write clean code.<br/><br/>
-  I enjoy go for a walk or play video games. 👟  🎮<br/>
+  I like to go for a walk or play video games. 👟  🎮<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
